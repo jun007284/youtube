@@ -1,1 +1,3 @@
-google-api-python-clientpytrends
+streamlit
+google-api-python-client
+pytrends
